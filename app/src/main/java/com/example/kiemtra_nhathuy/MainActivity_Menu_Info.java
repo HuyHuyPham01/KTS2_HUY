@@ -9,6 +9,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.Toast;
 
 public class MainActivity_Menu_Info extends AppCompatActivity {
@@ -64,7 +65,13 @@ public class MainActivity_Menu_Info extends AppCompatActivity {
 
         // Nút OK
         b.setPositiveButton("Đồng ý", new DialogInterface.OnClickListener() {
-            public void onClick(DialogInterface dialog, int id) {
+            @Override
+            public void onClick(DialogInterface dialogInterface, int i) {
+                Intent intent = new Intent(getApplicationContext(),MainActivity.class);
+                startActivity(intent);
+
+                Intent startMain = new Intent(Intent.ACTION_MAIN);
+                startActivity(startMain);
                 finish();
             }
         });

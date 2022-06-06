@@ -96,6 +96,11 @@ public class MainActivity_KT3 extends AppCompatActivity {
         // Nút Ok
         b.setPositiveButton("Đồng ý", new DialogInterface.OnClickListener() {
             public void onClick(DialogInterface dialog, int id) {
+                Intent intent = new Intent(getApplicationContext(),MainActivity.class);
+                startActivity(intent);
+
+                Intent startMain = new Intent(Intent.ACTION_MAIN);
+                startActivity(startMain);
                 finish();
             }
         });
