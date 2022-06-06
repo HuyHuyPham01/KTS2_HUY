@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/GitHub/KTS2_HUY/app/src/main/res/drawable/ic_menu.xml" value="0.2385" />
+        <entry key="..\:/GitHub/KTS2_HUY/app/src/main/res/layout/activity_kt1.xml" value="0.25416666666666665" />
+        <entry key="..\:/GitHub/KTS2_HUY/app/src/main/res/layout/activity_kt2.xml" value="0.25416666666666665" />
+        <entry key="..\:/GitHub/KTS2_HUY/app/src/main/res/layout/activity_kt3.xml" value="0.25416666666666665" />
+        <entry key="..\:/GitHub/KTS2_HUY/app/src/main/res/layout/activity_listview.xml" value="0.25416666666666665" />
+        <entry key="..\:/GitHub/KTS2_HUY/app/src/main/res/layout/activity_listview_mang.xml" value="0.25416666666666665" />
+        <entry key="..\:/GitHub/KTS2_HUY/app/src/main/res/layout/activity_listview_object.xml" value="0.10462962962962963" />
+        <entry key="..\:/GitHub/KTS2_HUY/app/src/main/res/layout/activity_listview_string_array.xml" value="0.25416666666666665" />
+        <entry key="..\:/GitHub/KTS2_HUY/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/GitHub/KTS2_HUY/app/src/main/res/layout/activity_menu_info.xml" value="0.264" />
+        <entry key="..\:/GitHub/KTS2_HUY/app/src/main/res/menu/mymenu.xml" value="0.2" />
         <entry key="..\:/TTLapTrinhSmartphone/AndroidSourceCode/KiemTra_NhatHuy/app/src/main/res/drawable/botron_button.xml" value="0.2595" />
         <entry key="..\:/TTLapTrinhSmartphone/AndroidSourceCode/KiemTra_NhatHuy/app/src/main/res/drawable/khung_edittext.xml" value="0.124" />
         <entry key="..\:/TTLapTrinhSmartphone/AndroidSourceCode/KiemTra_NhatHuy/app/src/main/res/layout/activity_kt1.xml" value="0.49653979238754326" />

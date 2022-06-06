@@ -19,7 +19,7 @@
 
         <TextView
             android:id="@+id/textView"
-            android:layout_width="0dp"
+            android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_weight="4"
             android:text="chọn bài kiểm tra"
@@ -29,17 +29,17 @@
             android:textSize="28sp"
             android:gravity="center" />
 
-        <Button
-            android:id="@+id/buttonThoat"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Thoát"
-            android:gravity="center"
-            android:layout_gravity="center"
-            android:layout_margin="10dp"
-            android:textAllCaps="false"
-            android:background="@drawable/botron_button"/>
+<!--        <Button-->
+<!--            android:id="@+id/buttonThoat"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:layout_weight="1"-->
+<!--            android:text="Thoát"-->
+<!--            android:gravity="center"-->
+<!--            android:layout_gravity="center"-->
+<!--            android:layout_margin="10dp"-->
+<!--            android:textAllCaps="false"-->
+<!--            android:background="@drawable/botron_button"/>-->
 
     </LinearLayout>
 
@@ -55,7 +55,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:weightSum="4"
+            android:weightSum="3"
             android:orientation="vertical">
 
             <LinearLayout
@@ -63,8 +63,7 @@
                 android:layout_height="0dp"
                 android:layout_weight="1"
                 android:paddingBottom="10dp"
-                android:orientation="vertical"
-                android:weightSum="10">
+                android:orientation="vertical">
 
                 <ImageView
                     android:id="@+id/imageViewKT1"
@@ -145,7 +144,7 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
-            android:weightSum="4"
+            android:weightSum="3"
             android:orientation="vertical">
 
             <LinearLayout
